@@ -1,0 +1,82 @@
+// app global css in SCSS form
+.body, span, p, div {
+    font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Teko', sans-serif;
+}
+
+.font-teko {
+    font-family: 'Teko', sans-serif;
+}
+
+.font-lato {
+    font-family: 'Lato', sans-serif;
+}
+
+.font-weight-light {
+  font-weight: 300;
+}
+
+
+
+.text-touchpoint {
+  color: #9510AC;
+}
+
+.text-understand {
+  color: #17BC61;
+}
+
+.text-define {
+  color: #FF6C11;
+}
+
+.text-ideate {
+  color: #FFB01F;
+}
+
+.text-make {
+  color: #00B8F3;
+}
+
+.text-time {
+  color: rgba(248,241,229,0.75);
+}
+
+.bg-touchpoint {
+  background-color: #9510AC;
+}
+
+.bg-understand {
+  background-color: #17BC61;
+}
+
+.bg-define {
+  background-color: #FF6C11;
+}
+
+.bg-ideate {
+  background-color: #FFB01F;
+}
+
+.bg-make {
+  background-color: #00B8F3;
+}
+
+.bg-time {
+  color: rgba(248,241,229,0.75);
+}
+
+.bg-gradient1 {
+  background: rgb(255,108,17);
+background: linear-gradient(135deg, rgba(255,108,17,1) 0%, rgba(152,255,152,1) 100%);
+}
+
+.max-container-width {
+    margin: 0 auto;
+    max-width: 1120px;
+    padding: 0 16px;
+    text-align: left;
+}
